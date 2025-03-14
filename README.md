@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Celso64
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Angular 18, Java Spring, Keyloack, Docker
+- 🌱 I’m currently learning Docker, Kubernetes, CI/CD, AWS
 - 😄 Pronouns: Carlos. Celso
 
 <!---
