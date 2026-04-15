@@ -29,7 +29,7 @@
 - Postgres
 - MySQL
 #### NoSQL:
-- Mongo (Documentary)
+- Mongo (Document)
 - TinkerPop, Neo4J (Graphs)
 - Redis (key-value)
 #### AWS
